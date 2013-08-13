@@ -1,0 +1,22 @@
+require 'hashmake'
+require 'music-transcription'
+
+# basic core classes
+require 'music-composition/version'
+
+require 'music-composition/rhythmic_pattern'
+require 'music-composition/pitch_range'
+require 'music-composition/interval_vector'
+require 'music-composition/interval_vector_constants'
+require 'music-composition/interval_vector_arpeggiator'
+require 'music-composition/scale'
+require 'music-composition/pitch_class'
+require 'music-composition/pitch_class_constants'
+require 'music-composition/pitch_class_arpeggiator'
+require 'music-composition/pitch_classes'
+require 'music-composition/ordered_pitch_classes'
+require 'music-composition/normal_form'
+require 'music-composition/prime_form'
+require 'music-composition/note_maker'
+require 'music-composition/interval_class'
+require 'music-composition/key'

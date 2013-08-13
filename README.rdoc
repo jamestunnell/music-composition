@@ -1,0 +1,29 @@
+= music-composition
+
+* {Homepage}[https://github.com/jamestunnell/music-composition]
+* {Issues}[https://github.com/jamestunnell/music-composition/issues]
+* {Documentation}[http://rubydoc.info/gems/music-composition/frames]
+* {Email}[mailto:jamestunnell@lavabit.com]
+
+== Description
+
+Control music generation using a blend of elements of tonal music composition 
+and electronic music techniques.
+
+== Features
+
+== Examples
+
+  require 'music-composition'
+
+== Requirements
+
+== Install
+
+  $ gem install music-composition
+
+== Copyright
+
+Copyright (c) 2012 James Tunnell
+
+See LICENSE.txt for details.
